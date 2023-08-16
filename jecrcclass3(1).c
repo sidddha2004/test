@@ -9,7 +9,7 @@ int main()
     int d;
     printf("Enter the temp. in deg. C:");
     scanf("%d",&d);
-    printf("Temp in farantie:%d\n",(1.8*d)+32);
+    printf("Temp in farantie:%f\n",(1.8*d)+32);
 
     //add 5 subject marks find sum and average
 
